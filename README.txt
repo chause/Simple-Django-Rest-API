@@ -18,15 +18,15 @@ MarvelAPI is a simple RESTful API built in a Django framework supported by a Mon
     Run migrations:             python manage.py migrate
 
 - Running unit tests -
-    Run the MongoDB service:    monogd
+    Run the MongoDB service:    mongod
     Run tests:                  python manage.py test
 
 - Importing data via CSV -
-    Run the MongoDB service:    monogd
+    Run the MongoDB service:    mongod
     Run the Django server:      python application/import_csv.py -m <MODEL> -f <FILENAME>
 
 - Running the API -
-    Run the MongoDB service:    monogd
+    Run the MongoDB service:    mongod
     Run the server (port 8000): python manage.py runserver 8000
 
 - Navigating the API -
