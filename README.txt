@@ -1,9 +1,9 @@
 MarvelAPI is a simple RESTful API built in a Django framework supported by a MongoDB database via djongo
 
 - Source data -
-	marvel_heroes.csv: 			Contains a list of heroes
-	marvel_villains.csv: 		Contains a list of villains
-	marvel_stats.csv: 			Contains stats for each hero and villain
+    marvel_heroes.csv: 		Contains a list of heroes
+    marvel_villains.csv: 	Contains a list of villains
+    marvel_stats.csv: 		Contains stats for each hero and villain
 
 - Installion requirements -
     Python 3.6.7
